@@ -1,7 +1,8 @@
 # Gerador-QRCode
 <h2>Demonstração 🎬</h2>
-
-
+<h1 align="center">
+  <img alt="Gif" title="Readme" src="./Img/GeradorQrCode.gif"/>
+  </h1>
 <h2>O que é QR Code?</h2>
 <p>QR Code é um código bidimensional que pode ser escaneado pela câmera de qualquer smartphone ou tablet e tem o objetivo de redirecionar o usuário para algum conteúdo em uma página. O termo significa “Quick Response Code”, ou seja, “Código de resposta rápida” em inglês.
 
