@@ -1,6 +1,7 @@
 # Gerador-QRCode
 <h2>Demonstração 🎬</h2>
 
+
 <h2>O que é QR Code?</h2>
 <p>QR Code é um código bidimensional que pode ser escaneado pela câmera de qualquer smartphone ou tablet e tem o objetivo de redirecionar o usuário para algum conteúdo em uma página. O termo significa “Quick Response Code”, ou seja, “Código de resposta rápida” em inglês.
 
@@ -20,7 +21,7 @@
       <li>Pronto, agora é só utilizar seu QR Code para potencializar a sua marca.</b></li>
     </ul>
 </p>
-
+<p> Clique <a href="https://elizeu-qrcode.netlify.app/">aqui</a> para criar seu QR Code.</p>
 <h2> Tecnologias 👨🏾‍💻</h2>
 
 - [JavaScript](https://pt.wikipedia.org/wiki/JavaScript)
